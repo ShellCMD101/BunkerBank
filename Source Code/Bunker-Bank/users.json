@@ -1,0 +1,35 @@
+{
+    "admin_test": {
+        "email": "cyber-researcher-01@uow.edu.pk",
+        "password": "$2b$12$N9qo8uLOickgx2ZMRZoMyeIjZAgdtV.jLgUpFhRUE.20M6X.68F0W",
+        "balance": 125400.50,
+        "history": [
+            "Deposited $100000.00 on 10 Jan 2026 at 09:15 AM",
+            "Deposited $30000.00 on 11 Jan 2026 at 11:30 AM",
+            "Withdrew $1500.00 on 12 Jan 2026 at 02:45 PM",
+            "Withdrew $3099.50 on 15 Jan 2026 at 08:20 PM"
+        ],
+        "confirmed": true
+    },
+    "Ghost_User": {
+        "email": "sentinel.vault@protonmail.com",
+        "password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6L6L6L6L6L6L6L6L",
+        "balance": 5200.0,
+        "history": [
+            "Deposited $5000.00 on 20 Jan 2026 at 10:00 PM",
+            "Deposited $500.00 on 21 Jan 2026 at 11:00 PM",
+            "Withdrew $300.00 on 22 Jan 2026 at 01:15 AM"
+        ],
+        "confirmed": true
+    },
+    "Developer": {
+        "email": "dev.access@local.host",
+        "password": "$2b$12$8K1pM5wE9rT2yQ4uV6bN7xO9zL1mK3jI5hG7fE9dC1bA3zX5yW7vU",
+        "balance": 999999.0,
+        "history": [
+            "Deposited $1000000.00 on 01 Feb 2026 at 12:00 PM",
+            "Withdrew $1.00 on 01 Feb 2026 at 12:05 PM"
+        ],
+        "confirmed": true
+    }
+}
