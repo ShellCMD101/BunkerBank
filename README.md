@@ -320,7 +320,7 @@ SMTP server access (Gmail/SendGrid recommended)
 **--1. Environment Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/securebank.git
+git clone https://github.com/ShellCMD101/BunkerBank.git
 cd securebank
 
 # Create virtual environment
